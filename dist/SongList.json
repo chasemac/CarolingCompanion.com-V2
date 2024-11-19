@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Jingle Bells",
+    "composer": "James Lord Pierpont",
+    "lyricist": "James Lord Pierpont",
+    "year": "1857",
+    "category": "Traditional Carols",
+    "origin": "United States",
+    "countryOrigin": "USA",
+    "fileName": "Jingle Bells.md"
+  },
+  {
+    "title": "Silent Night",
+    "composer": "Franz Xaver Gruber",
+    "lyricist": "Joseph Mohr",
+    "year": "1818",
+    "category": "Traditional Carols",
+    "origin": "Austria",
+    "countryOrigin": "Austria",
+    "fileName": "Silent Night.md"
+  },
+  {
+    "title": "Deck the Halls",
+    "origin": "Welsh tune from the 16th century, lyrics added later",
+    "composer": "unknown",
+    "lyricist": "unknown",
+    "year": "16th century",
+    "category": "Traditional Carols",
+    "countryOrigin": "Wales",
+    "fileName": "Deck the Halls.md"
+  },
+  {
+    "title": "O Come, All Ye Faithful (Adeste Fideles)",
+    "composer": "John Francis Wade",
+    "lyricist": "unknown",
+    "year": "18th century",
+    "category": "Traditional Carols",
+    "origin": "England",
+    "countryOrigin": "England",
+    "fileName": "O Come All Ye Faithful.md"
+  },
+  {
+    "title": "The First Noel",
+    "origin": "Traditional English carol, possibly from the 13th century or later",
+    "composer": "unknown",
+    "lyricist": "unknown",
+    "year": "unknown",
+    "category": "Traditional Carols",
+    "countryOrigin": "England",
+    "fileName": "The First Noel.md"
+  },
+  {
+    "title": "God Rest Ye Merry, Gentlemen",
+    "origin": "Traditional English carol, date of origin uncertain but well known by the 18th century",
+    "composer": "unknown",
+    "lyricist": "unknown",
+    "year": "unknown",
+    "category": "Traditional Carols",
+    "countryOrigin": "England",
+    "fileName": "God Rest Ye Merry Gentlemen.md"
+  },
+  {
+    "title": "Hark! The Herald Angels Sing",
+    "lyricist": "Charles Wesley",
+    "composer": "Felix Mendelssohn",
+    "year": "unknown",
+    "category": "Traditional Carols",
+    "origin": "England/Germany",
+    "countryOrigin": "England",
+    "fileName": "Hark The Herald Angels Sing.md"
+  },
+  {
+    "title": "We Wish You a Merry Christmas",
+    "origin": "A traditional English carol from the West Country of England",
+    "composer": "unknown",
+    "lyricist": "unknown",
+    "year": "unknown",
+    "category": "Traditional Carols",
+    "countryOrigin": "England",
+    "fileName": "We Wish You a Merry Christmas.md"
+  },
+  {
+    "title": "O Little Town of Bethlehem",
+    "lyricist": "Phillips Brooks",
+    "composer": "Lewis Redner",
+    "year": "1868",
+    "category": "Traditional Carols",
+    "origin": "United States",
+    "countryOrigin": "USA",
+    "fileName": "O Little Town of Bethlehem.md"
+  },
+  {
+    "title": "Away in a Manger",
+    "composer": "William J. Kirkpatrick",
+    "lyricist": "debated",
+    "year": "1895",
+    "category": "Traditional Carols",
+    "origin": "United States",
+    "countryOrigin": "USA",
+    "fileName": "Away in a Manger.md"
+  },
+  {
+    "title": "Carol of the Bells",
+    "composer": "Mykola Leontovych",
+    "originalTitle": "Shchedryk",
+    "year": "1916",
+    "category": "Classical Pieces Adapted for Christmas",
+    "origin": "Ukraine",
+    "countryOrigin": "Ukraine",
+    "fileName": "Carol of the Bells.md"
+  },
+  {
+    "title": "Greensleeves (What Child Is This?)",
+    "origin": "16th century, adapted with Christmas lyrics in the 19th century",
+    "composer": "unknown",
+    "lyricist": "unknown",
+    "year": "unknown",
+    "category": "Classical Pieces Adapted for Christmas",
+    "countryOrigin": "England",
+    "fileName": "What Child Is This.md"
+  },
+  {
+    "title": "It Came Upon the Midnight Clear",
+    "lyricist": "Edmund Sears",
+    "composer": "unknown",
+    "year": "1849",
+    "category": "Other Public Domain Songs",
+    "origin": "United States",
+    "countryOrigin": "USA",
+    "fileName": "It Came Upon the Midnight Clear.md"
+  },
+  {
+    "title": "Angels We Have Heard on High",
+    "origin": "French carol from the 18th century, English lyrics adapted later",
+    "composer": "unknown",
+    "lyricist": "unknown",
+    "year": "unknown",
+    "category": "Other Public Domain Songs",
+    "countryOrigin": "France",
+    "fileName": "Angels We Have Heard on High.md"
+  }
+]

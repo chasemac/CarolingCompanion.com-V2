@@ -24,15 +24,14 @@ function LyricViewer({ song }) {
   return (
     <div className="lyric-viewer">
       <h2>{song.title}</h2>
-      <div className="song-metadata">
-        <p>
-          {song.composer !== 'unknown' && `Composer: ${song.composer}`}
-          {song.lyricist !== 'unknown' && ` • Lyricist: ${song.lyricist}`}
-        </p>
-        <p>Origin: {song.origin}</p>
-      </div>
       <div className="lyrics-content">
         <ReactMarkdown>{lyrics}</ReactMarkdown>
+      </div>
+      <div className="song-metadata">
+        {song.composer !== 'unknown' && <p>Composer: {song.composer}</p>}
+        {song.lyricist !== 'unknown' && <p>Lyricist: {song.lyricist}</p>}
+        {song.year !== 'unknown' && <p>Year: {song.year}</p>}
+        <p>Origin: {song.origin}</p>
       </div>
     </div>
   );
