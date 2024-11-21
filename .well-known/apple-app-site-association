@@ -1,8 +1,11 @@
-{
+ {
     "applinks": {
-        "details": [{
-            "appIDs": ["J2C764CY4K.bio.chase.Caroling-Companion"],
-            "paths": ["/*"]
-        }]
+        "apps": [],
+        "details": [
+            {
+                "appID": "J2C764CY4K.bio.chase.Caroling-Companion",
+                "paths": ["*"]
+            }
+        ]
     }
-}   
+}
